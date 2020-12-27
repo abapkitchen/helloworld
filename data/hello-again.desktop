@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name =Hello Again
+GenericName = Hello World App
+Comment=Proves that we can user Vala and Gtk
+Categories=Education
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;

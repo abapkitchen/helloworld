@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Vitali Zeiser <v.zeiser@live.de> -->
+<component type="desktop">
+<id>com.github.vitali.zeiser</id>
+<metadata_license>CC0</metadata_license>
+<name>Hello World</name>
+<summary>First try with Vala and Gtk</summary>
+<description>
+<p>My first steps with vala</p>
+</description>
+</component>
